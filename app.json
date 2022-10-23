@@ -10,16 +10,16 @@
       "required": true
     },
     "BOT_TOKEN": {
-      "description": "A bot token from @BotFather",
+      "description": "@Yakkulabot",
       "required": true
     },
     "BOT_NAME": {
-      "description": "Your MusicPlayer Bot Name.",
+      "description": "Yakkula music bot",
       "required": false,
       "value": ""
     },
     "API_ID": {
-      "description": "App ID from my.telegram.org/apps",
+      "description": "5725894700:AAHGwTqMmSRCuSpUWwWWikphpxtjWOTWsOg",
       "required": true
     },
     "API_HASH": {
